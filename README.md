@@ -1,4 +1,4 @@
-# Projec
+# Project
 
 Descripción del Proyecto
 
