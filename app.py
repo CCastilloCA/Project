@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+st.title("Análisis de datos de venta de coches")
+
 car_data = pd.read_csv('vehicles_us.csv')  # leer los datos
 hist_button = st.checkbox('Mostrar Histograma')  # casilla de verificación para histograma
 scatter_button = st.checkbox('Mostrar Gráfico de Dispersión')  # casilla de verificación para gráfico de dispersión
