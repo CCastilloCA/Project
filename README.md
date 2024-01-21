@@ -14,4 +14,4 @@ Otra casilla de verificación permite la visualización de un gráfico de disper
 
 Esta aplicación web es una herramienta simple y fácil de usar para explorar visualmente datos relacionados con la venta de vehículos, proporcionando a los usuarios una perspectiva clara y comprensible de las características clave de los anuncios.
 
-link: https://project1-yk04.onrender.com/
+link: https://project-k3nw.onrender.com
